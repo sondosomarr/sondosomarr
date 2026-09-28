@@ -1,15 +1,3 @@
-<div align="center">
-
-# Sondos Omar
-
-### DevOps & Software Engineer
-
-I build practical software and the infrastructure that helps it run. My work connects cloud automation, backend development, and applied AI—from design and testing to deployment.
-
-</div>
-
----
-
 ### What I work with
 
 **Cloud & DevOps**
