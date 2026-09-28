@@ -1,4 +1,4 @@
-### What I work with
+## What I work with
 
 ### Cloud & DevOps
 
@@ -11,15 +11,21 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,postgres,mongodb&theme=dark" alt="Java, Spring Boot, Python, Node.js, PostgreSQL, MongoDB" />
 </p>
-**AI & Web**
+
+### AI & Web
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,html,css&theme=dark" alt="PyTorch, TypeScript, JavaScript, React, Angular, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,html,css&theme=dark" alt="TypeScript, JavaScript, React, Angular, HTML, CSS" />
 </p>
+
 ![RAG](https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-202020?style=for-the-badge)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
 ---
+
+### About me
 
 ### About me
 
